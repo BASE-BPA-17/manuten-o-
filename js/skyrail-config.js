@@ -1,6 +1,7 @@
-/* Configure somente a URL e a chave ANON/PUBLISHABLE do projeto Supabase.
-   NUNCA coloque a chave service_role neste arquivo ou no navegador. */
+
+/* Configuração pública do Supabase para o painel SkyRail L17.
+   Nunca coloque uma chave secret ou service_role neste arquivo. */
 window.SKYRAIL_CONFIG = {
-  supabaseUrl: "COLE_AQUI_A_URL_DO_PROJETO",
-  supabaseAnonKey: "COLE_AQUI_A_CHAVE_ANON_PUBLICA"
+  supabaseUrl: "https://pjvuueqkxquyvspexacz.supabase.co",
+  supabaseAnonKey: "sb_publishable_kdsGGRI3zECO7843WdHAHw_v8Tfr0E_"
 };
